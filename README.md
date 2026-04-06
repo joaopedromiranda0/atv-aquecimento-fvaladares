@@ -58,7 +58,7 @@ Além dos requisitos do trabalho, foram adicionadas melhorias:
 Objetivo Acadêmico
 Este projeto tem como objetivo aplicar na prática os conceitos de pilhas, demonstrando seu uso em problemas reais, como navegação em sistemas web. 
 
-Autor 
+Alunos 
 > João Pedro Miranda Reis Silva - 972310486
 > João Victor Nunes Inácio - 972311105
 
