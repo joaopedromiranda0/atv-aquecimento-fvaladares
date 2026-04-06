@@ -59,7 +59,7 @@ Objetivo Acadêmico
 Este projeto tem como objetivo aplicar na prática os conceitos de pilhas, demonstrando seu uso em problemas reais, como navegação em sistemas web. 
 
 Autor 
-João Pedro Miranda Reis Silva - 972310486
-João Victor Nunes Inácio - 972311105
+> João Pedro Miranda Reis Silva - 972310486
+> João Victor Nunes Inácio - 972311105
 
 
